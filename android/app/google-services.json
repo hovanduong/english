@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "18679242060",
+    "project_id": "findwork-94920",
+    "storage_bucket": "findwork-94920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18679242060:android:e992dc8731b90d6d8a83e9",
+        "android_client_info": {
+          "package_name": "com.example.find_work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18679242060-uhct1ddgmglj0f4h4qod6arf3ro1hfbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD8U3sGAZ2fpvZn8qrei9rivJ20J_sTKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18679242060-uhct1ddgmglj0f4h4qod6arf3ro1hfbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18679242060:android:81318b827abaa4978a83e9",
+        "android_client_info": {
+          "package_name": "com.learning_english_app_emo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18679242060-uhct1ddgmglj0f4h4qod6arf3ro1hfbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD8U3sGAZ2fpvZn8qrei9rivJ20J_sTKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18679242060-uhct1ddgmglj0f4h4qod6arf3ro1hfbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
